@@ -18,5 +18,3 @@ finally:
     #finally
     for i in range(len(compras)):
         print(f'Índice {i}: {compras[i]}.')
-
-
